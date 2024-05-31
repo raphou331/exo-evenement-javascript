@@ -1,0 +1,29 @@
+#add{
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 20px;
+    background-color: aqua;
+}
+#task{
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 20px;
+    background-color: rgb(0, 255, 42);
+}
+li{
+    position:relative;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+li:hover{
+    background-color: blueviolet ;
+}
+li button{
+    position: absolute;
+    right: 5px;
+    border-radius: 10px;
+
+}
+button{
+    cursor: pointer;
+}
