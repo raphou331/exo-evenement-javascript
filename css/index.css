@@ -27,3 +27,14 @@ li button{
 button{
     cursor: pointer;
 }
+h1{
+    text-align: center;
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    margin: 10px;
+}
